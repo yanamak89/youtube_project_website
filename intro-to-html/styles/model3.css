@@ -1,0 +1,16 @@
+.model {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.order-online-text {
+    font-size: 18px;
+}
+.touchless-delivery {
+    cursor: pointer;
+}
+
+.touchless-delivery:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+}
